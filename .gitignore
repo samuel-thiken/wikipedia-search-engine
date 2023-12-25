@@ -1,0 +1,5 @@
+dws/
+*.chunks
+*.dict
+*.dict.json
+*.lst
